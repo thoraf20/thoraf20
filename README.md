@@ -27,15 +27,23 @@ I'm a backend-focused full-stack developer building scalable APIs, developer-fir
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-**Backend:**  
-NestJS, Express.js, Django, Gin, REST, GraphQL, WebSockets
+**Languages:**  
+Go, Typescript, Python
+
+**Frameworks:**  
+NestJS, Express.js, Django, Gin
+
+**Communications:**
+ gRPC, REST, GraphQL, WebSockets
 
 **Databases & Queues:**  
 PostgreSQL, MySQL, MongoDB, Redis, Kafka
 
-**DevOps & Cloud:**  
+**Infrastructure:**  
 AWS, GCP, Docker, GitHub Actions, GitLab CI/CD
 
+**Monitoring:**  
+Grafana, Prometheus, OpenTelemetery
 ---
 
 ### 🚀 Featured Projects
