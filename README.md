@@ -26,9 +26,7 @@ I'm a backend-focused full-stack developer building scalable APIs, developer-fir
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-**Languages:**  
-Go, Typescript, Python
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 **Frameworks:**  
 NestJS, Express.js, Django, Gin
