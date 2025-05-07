@@ -85,7 +85,7 @@ Grafana, Prometheus, OpenTelemetery
 ### 🧠 Currently building
 
 - Distributed systems with Go
-- Event-driven architecture using Kafka & NATS
+- Event-driven architecture using Redis Stream and Kafka.
 - Kubernetes & advanced cloud infrastructure
 
 ---
