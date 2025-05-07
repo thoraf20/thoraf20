@@ -65,8 +65,8 @@ Grafana, Prometheus, OpenTelemetery
 - 🎒 [**Smart Travel Advisor**](https://github.com/thoraf20/smart-travel-advisor):  
   AI-powered API for personalized travel planning using Go, OpenAPI, and external APIs.
 
-  - 🎒 [**Payment Processor Engine**](https://github.com/thoraf20/payment-processor):  
-        A production-ready payment processing system built with Go that supports multiple payment providers (Stripe, Flutterwave, Paystack) with clean architecture and robust error handling.
+- [**Payment Processor Engine**](https://github.com/thoraf20/payment-processor):  
+  A production-ready payment processing system built with Go that supports multiple payment providers (Stripe, Flutterwave, Paystack) with clean architecture and robust error handling.
 
 - 🏦 **Core Banking Platform** *(private)*:  
   Built scalable, multi-tenant API architecture using NestJS, PostgreSQL & Kafka.
