@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Toheeb Rauf</h1>
-<h3 align="center">Backend Engineer | Go & Node.js Enthusiast | API Craftsman</h3>
+<h3 align="center">Full Stack Engineer | Node.js, Go aand React Enthusiast | API Craftsman</h3>
 
 <p align="center">
   <a href="mailto:thoraf20@gmail.com">📧 Email</a> • 
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend-focused full-stack developer building scalable APIs, developer-first platforms, and event-driven systems. I specialize in **Node.js**, **TypeScript**, and **Go**, and I love working on projects that push the limits of performance and reliability.
+I'm a backenfull-stack developer building scalable APIs, developer-first platforms, and event-driven systems. I specialize in **Node.js**, **TypeScript**, **Go** and **React**, and I love working on projects that push the limits of performance and reliability.
 
 - 🔭 Currently building smart travel and banking systems.
 - 🧠 Exploring distributed systems, observability, and content moderation tech.
